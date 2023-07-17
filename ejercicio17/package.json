@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "package": "~2.18.x"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "package": "~2.0.x"
+  },
+
+  "scripts": {
+    "dev":"nodemon ./ejercicio17.js"
+  }
+}
